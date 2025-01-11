@@ -2,7 +2,7 @@
 
 # Gerenciador de Projetos Laravel 🚀
 
-Este projeto é um sistema de gerenciamento de projetos e tarefas, desenvolvido com o framework PHP **Laravel** em um grupo de alunos para
+Este projeto eu fiz na escola e é um sistema de gerenciamento de projetos e tarefas, desenvolvido com o framework PHP **Laravel** em um grupo de alunos para
 um trabalho no técnico.
 Ele inclui funcionalidades para autenticação de usuários, gerenciamento de projetos e tarefas associadas, utilizando uma API RESTful.
 
